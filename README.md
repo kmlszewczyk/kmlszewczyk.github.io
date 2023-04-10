@@ -1,8 +1,6 @@
-**Kamil Szewczyk**
+# Kamil Szewczyk
 
-## Kamil Szewczyk
-
-Wykształcenie:
+## Wykształcenie:
 **2013-2015 Uniwersytet Łódzki, Wydział Zarządzania, kierunek-Finanse i Rachunkowość**
 Specjalność - Rachunkowość finansowa, studia magisterskie
 
