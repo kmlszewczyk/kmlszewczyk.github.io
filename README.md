@@ -10,7 +10,7 @@ Specjalność - Zarządzanie finansami, studia licencjackie
 **2006-2010 Zespół Szkół nr 3 w Pabianicach, Technikum Ekonomiczne**
 Specjalność - Finanse, technik ekonomista
 
-**Doświadczenie zawodowe:**
+## Doświadczenie zawodowe:
 **2021-obecnie PKP Energetyka CUW sp. z o.o.
 stanowisko: Specjalista Zespół ds. Rozliczeń i Finansów, Obszar Finansów i Księgowości**
 obowiązki: wykonywanie czynności związanych z prawidłową ewidencją wpłat,
@@ -49,7 +49,7 @@ kontakt z klientami, obsługa i wysyłka zamówień
 stanowisko: Pracownik produkcji magazynu
 obowiązki: obsługa maszyn, kontrola magazynowa, wysyłka paczek
 
-**Ukończone kursy i szkolenia:**
+## Ukończone kursy i szkolenia:
 **2023 Altkom Akademia, Tworzenie zapytań do bazy danych na platformie MS SQL Server + SQL dla analityków,**
 18 godzin zajęć
 
@@ -68,7 +68,7 @@ kurs księgowości I i II stopnia,** 170 godzin zajęć, 60 godzin warsztatów k
 
 **2013 Infosys Poland, Szkolenie - Rachunkowość i controlling,** 8 godzin zajęć
 
-**Znajomość programów i umiejętności:**
+## Znajomość programów i umiejętności:
 Programy: Pakiet Microsoft Office (Excel, Word, Outlook),
 Sage Symphonia, Subiekt GT, Sky-Shop, IdoSell,
 SAP ERP, IntelliJ IDEA, Visual Studio Code, MySQL Workbench, Git Bash, MS SQL Server,
